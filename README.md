@@ -1,6 +1,5 @@
-# html_studies
-html study files
+# spacex-html-studies
 
-Repository created for HTML studies
+html study files
 
 Website developed only in HTML
